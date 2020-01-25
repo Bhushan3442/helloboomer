@@ -1,0 +1,25 @@
+{
+  "name": "helloboomer",
+  "version": "1.0.0",
+  "description": "for boomers",
+  "main": "boomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhushan3442/helloboomer.git"
+  },
+  "keywords": [
+    "for",
+    "boomers",
+    "only",
+    "boomers"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bhushan3442/helloboomer/issues"
+  },
+  "homepage": "https://github.com/Bhushan3442/helloboomer#readme"
+}
